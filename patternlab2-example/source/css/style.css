@@ -787,20 +787,20 @@ abbr {
  */
 .c-btn {
   display: inline-block;
-  background: #3b4a20;
+  background: #A217BA;
   color: #fff;
   line-height: 1;
   font-weight: bold;
   padding: 1rem 2rem;
   border: 0;
-  border-radius: 6px;
+  border-radius: 15px;
   text-align: center;
   transition: background 0.2s ease;
   /**
    * Disabled button
    */ }
   .c-btn:hover, .c-btn:focus {
-    background: #5C832F;
+    background: #411DA3;
     color: #fff; }
   .c-btn.disabled {
     background: #d9d9d9;
@@ -810,7 +810,26 @@ abbr {
  * Small button
  */
 .c-btn-small {
-  padding: 0.5em; }
+  background: #A217BA;
+  color: #fff;
+  line-height: 0.5;
+  font-size: 0.75rem;
+  font-weight: normal;
+  padding: 0.5rem 0.5rem;
+  border: 0;
+  border-radius: 15px;
+  text-align: center;
+  transition: background 0.2s ease;
+  /**
+   * Disabled button
+   */ }
+  .c-btn-small:hover, .c-btn:focus {
+    background: #411DA3;
+    color: #fff; }
+  .c-btn-small.disabled {
+    background: #d9d9d9;
+    color: #808080; }
+
 
 /**
  * Large button
@@ -818,9 +837,26 @@ abbr {
 .c-btn-large {
   padding: 0.5em;
   text-transform: uppercase;
-  background: #808080;
-  font-size: 1.4rem;
-  font-weight: normal; }
+  background: #A217BA;
+  font-size: 2.4rem;
+  color: #fff;
+  line-height: 1;
+  font-weight: bold;
+  padding: 1rem 2rem;
+  border: 1;
+  border-radius: 40px;
+  text-align: center;
+  transition: background 0.2s ease;
+  /**
+   * Disabled button
+   */ }
+  .c-btn-large:hover, .c-btn:focus {
+    background: #411DA3;
+    color: #080808; }
+  .c-btn-large.disabled {
+    background: #d9d9d9;
+    color: #808080;
+}
 
 /**
  * Text button
