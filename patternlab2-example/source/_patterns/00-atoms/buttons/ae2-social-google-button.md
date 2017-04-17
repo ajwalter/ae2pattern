@@ -3,7 +3,7 @@ title: AE2 Google Button
 ---
 
 [This is where my pattern element guide to usage will go.
-By Andy Walter 11:35 @ 17-04-17.
+By Andy Walter 12:00 @ 17-04-17.
 
 Modified Colour to background: #A217BA & hover background: #411DA3 in style.css in source folder.
 
