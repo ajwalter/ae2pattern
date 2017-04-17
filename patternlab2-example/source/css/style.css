@@ -1197,9 +1197,19 @@ svg {
   overflow: hidden;
   background: #3b4a20;
   color: #fff;
-  line-height: 1.2;
-  padding: 1em 0; }
+  line-height: 0.75;
+  padding: 0.5em 0; }
+  
 
+
+.c-ae2-footer {
+  clear: both;
+  overflow: hidden;
+  background: #A217BA;
+  color: #fff;
+  line-height: 0.25;
+  padding: 0.1em 0; }
+  
 /**
  * Footer nav
  */
