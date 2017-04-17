@@ -1,0 +1,23 @@
+{
+    "c-page-header__title":"",
+	"pageTitle":"AE2 Pattern Library 6 Components Sheet",
+    
+    "ae2LbtnClass":"-large",
+    "ae2LbtnText":"AE2 Large Button",
+    
+	"ae2MbtnClass":"-medium",
+    "ae2MbtnText":"AE2 Medium Button",
+    
+    "ae2SbtnClass":"-small",
+    "ae2SbtnText":"AE2 Small Button",
+    
+    "btnClass":"c-text-btn",
+    "btnText":"AE2 Text Button",
+    
+    "checkBox-Text":"AE2 CheckBox Button",
+    
+    "radioButton-Text":"AE2 Radio Button",
+    
+    "selectButton-Text":"AE2 Select Menu Button"
+    
+}
