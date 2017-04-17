@@ -577,10 +577,18 @@ blockquote {
  */
 hr {
   border: 0;
-  height: 2px;
-  background: #d9d9d9;
+  height: 10px;
+  background: #d8d8d8;
   margin: 2em 0; }
 
+/* Single-direction drop shadow */
+
+.hr-style-line {
+    height: 10px;
+    border: 0;
+    background-color: #A217BA;
+    box-shadow: 10px 10px 5px #868686;}
+    
 /**
  * Abbreviation base styles
  */

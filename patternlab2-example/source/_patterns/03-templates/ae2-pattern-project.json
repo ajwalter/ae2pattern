@@ -18,6 +18,13 @@
     
     "radioButton-Text":"AE2 Radio Button",
     
-    "selectButton-Text":"AE2 Select Menu Button"
+    "selectButton-Text":"AE2 Select Menu Button",
     
+    "ae2SocialGitHubText":"Collaborate",
+    
+    "ae2SocialFacebookText":"Share",
+    
+    "ae2SocialGooglePlusText":"Google",
+    
+    "ae2SocialTwitterText":"Tweet"
 }
