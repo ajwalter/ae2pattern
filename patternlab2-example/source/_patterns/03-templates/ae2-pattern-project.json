@@ -1,6 +1,6 @@
 {
     "c-page-header__title":"",
-	"pageTitle":"AE2 Pattern Library 6 Components Sheet",
+	"pageTitle":"AE2 Pattern Library - 6 Components",
     
     "ae2LbtnClass":"-large",
     "ae2LbtnText":"AE2 Large Button",
@@ -26,5 +26,10 @@
     
     "ae2SocialGooglePlusText":"Google",
     
+    "ae2overlayMessage":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Soluta, repellat, ducimus quidem doloribus inventore sunt in officiis esse. Eos commodi cum maxime, sapiente beatae dolorum quidem, nisi ratione fugit et.",
+
+    "ae2overlayAction":"Find a Job",
+    
     "ae2SocialTwitterText":"Tweet"
+    
 }

@@ -1197,7 +1197,7 @@ svg {
   overflow: hidden;
   background: #3b4a20;
   color: #fff;
-  line-height: 0.1;
+  line-height: 0.75;
   padding: 0.5em 0; }
   
 
@@ -1208,7 +1208,7 @@ svg {
   background: #A217BA;
   color: #ccccc;
   line-height: 0.25;
-  padding: 0.1em 0; 
+  padding: 0.100em 0; 
   text-align: top;
 }
   
@@ -1231,7 +1231,7 @@ svg {
  */
 .c-footer-nav {
   display: block;
-  margin-right: 10rem; }
+  margin-right: 1rem; }
 
 /**
  * Footer Nav List
@@ -1254,18 +1254,12 @@ svg {
 
 /**
  * Footer Nav Links
- * AJW position top -120 right -100
  */
 .c-footer-nav__link {
   font-weight: bold;
   display: block;
   padding: 1rem 2rem 1rem 0;
-  color: #ffffff;
-  position: relative;
-  top: -120px;
-  right: -100px;
-  width: 100%;
-  padding: 1em;}
+  color: #fff; }
   .c-footer-nav__link:hover, .c-footer-nav__link:focus {
     color: #a5a5a5; }
 
@@ -1369,28 +1363,13 @@ svg {
 /*------------------------------------*\
     #LOGO
 \*------------------------------------*/
-/*------------------------------------*\
-Modified c-logo. put in position & top -60
-\*------------------------------------*/
 .c-logo {
   display: block;
-  max-width: 200px; 
-  position: relative;
-  top: -60px;}
+  max-width: 200px; }
   .c-box__header .c-logo {
     max-width: 12em;
     margin: 0 auto; }
 
-.c-logo-head {
-  display: block;
-  max-width: 200px; 
-  position: relative;
-  top: 5px;}
-  .c-box__header .c-logo {
-    max-width: 12em;
-    margin: 0 auto; }
-    
-    
 .c-logo-link {
   display: inline-block;
   padding: 0.2rem 1rem; }
@@ -1833,7 +1812,7 @@ Modified c-logo. put in position & top -60
  *    such as description or actions (edit, delete, etc).
  */
 .c-page-header__title {
-  padding: 1rem 0 0 0.5rem;
+  padding: 1rem 0 0.5rem;
   position: relative;
   color: #444444; }
   .c-page-header__title:after {
