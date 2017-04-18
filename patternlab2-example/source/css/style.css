@@ -1370,13 +1370,11 @@ svg {
     #LOGO
 \*------------------------------------*/
 /*------------------------------------*\
-Modified c-logo. put in position & top -60
+Modified c-logo. put in then fix & remove position & top -60
 \*------------------------------------*/
 .c-logo {
   display: block;
-  max-width: 200px; 
-  position: relative;
-  top: -60px;}
+  max-width: 200px; }
   .c-box__header .c-logo {
     max-width: 12em;
     margin: 0 auto; }

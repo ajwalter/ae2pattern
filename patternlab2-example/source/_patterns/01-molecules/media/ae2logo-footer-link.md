@@ -1,5 +1,5 @@
 ---
-title: Footer Logo Link
+title: AE2 Footer Logo Link
 ---
 
 [Insert description here]

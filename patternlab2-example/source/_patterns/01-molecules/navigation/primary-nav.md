@@ -1,5 +1,5 @@
 ---
-title: Primary Navigation
+title: AE2 Primary Navigation
 ---
 
 [Insert description here]
