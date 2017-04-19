@@ -1829,10 +1829,9 @@ Modified c-logo. put in then fix & remove position & top -60
 /**
  * 1) The page header contains the page's heading, as perhaps other page information
  *    such as description or actions (edit, delete, etc).
- * May have broken RWD by adding modification here.  Did not document.  Now confused?
  */
 .c-page-header__title {
-  padding: 1rem 0 0.5rem;
+  padding: 1rem 0 0 0.5rem;
   position: relative;
   color: #444444; }
   .c-page-header__title:after {
@@ -2029,7 +2028,7 @@ progress[value]::-webkit-progress-bar {
 .l {
   max-width: 80em;
   margin: 0 auto;
-  padding: 1rem; }
+  padding: 10rem; }
 
 /*------------------------------------*\
     #TEMPLATES
