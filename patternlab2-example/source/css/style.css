@@ -1190,14 +1190,14 @@ svg {
     #FOOTER
 \*------------------------------------*/
 /**
- * Footer
+ * Footer - 20-04-17 change c-ae2-footer line-height from 0.1 to 1.0
  */
 .c-footer {
   clear: both;
   overflow: hidden;
   background: #3b4a20;
   color: #fff;
-  line-height: 0.1;
+  line-height: 1.0;
   padding: 0.5em 0; }
   
 
@@ -1231,7 +1231,7 @@ svg {
  */
 .c-footer-nav {
   display: block;
-  margin-right: 10rem; }
+  margin-right: 1rem; }
 
 /**
  * Footer Nav List
@@ -1239,7 +1239,7 @@ svg {
 .c-footer-nav__list {
   display: flex;
   flex-direction: column; }
-  @media all and (min-width: 24em) {
+  @media all and (min-width: 34em) {
     .c-footer-nav__list {
       flex-direction: row; } }
 
@@ -1247,8 +1247,8 @@ svg {
  * Footer Nav List Item
  */
 .c-footer-nav__item {
-  width: 75%; }
-  @media all and (min-width: 24em) {
+  width: 100%; }
+  @media all and (min-width: 34em) {
     .c-footer-nav__item {
       width: inherit; } }
 

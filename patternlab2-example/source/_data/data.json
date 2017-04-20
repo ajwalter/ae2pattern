@@ -53,15 +53,15 @@
     "number" : "12",
     "primaryNav" : [
         {
-            "label": "About",
+            "label": "What We Do",
             "url": "link.pages-about"
         },
         {
-            "label": "Blog",
+            "label": "Jobs",
             "url": "link.pages-blog-index"
         },
         {
-            "label": "Contact",
+            "label": "Recruiters",
             "url": "link.pages-contact"
         },
         {
@@ -71,15 +71,15 @@
     ],
     "footerNav" : [
         {
-            "label": "About",
+            "label": "What We Do",
             "url": "link.pages-about"
         },
         {
-            "label": "Blog",
+            "label": "Jobs",
             "url": "link.pages-blog-index"
         },
         {
-            "label": "Contact",
+            "label": "Recruiters",
             "url": "link.pages-contact"
         },
         {
