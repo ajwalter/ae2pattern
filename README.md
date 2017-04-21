@@ -37,5 +37,8 @@
 ----------------------------------------------------------------------------------------------------------
 ## Rendering of all Components avialable from Menu - Templates - AE2 PATTERN LIBRARY COMPONENTS
 
+- To show all Components built for assignment on single web page.
+
 [Components Template Page](https://ae2pattern-andyjwalter.c9users.io/patternlab2-example/public/?p=templates-ae2-pattern-project)
+
 ----------------------------------------------------------------------------------------------------------
