@@ -21,7 +21,7 @@
 ----------------------------------------------------------------------------------------------------------
 ##  Access to Pattern Library on Cloud9
 
-- Instance hybernating so please request owner to run
+##- Instance hybernating so please request owner to run
 - Cloud9 deployment of PatternLab v2 running on PHP with Mustache
 - Available as part of Cloud9 Team Subscription SWD600 http://c9.io/solent
 - See under andyjwalter - solent/ae2pattern
@@ -36,7 +36,9 @@
 - All Six Components reside in relevant Atomic folder structure and Library Menus.
 
 ----------------------------------------------------------------------------------------------------------
-## Rendering of all Components avialable from Menu - Templates - AE2 PATTERN LIBRARY COMPONENTS
+## Rendering of all Components avialable from:
+
+##+ Menu - Templates - AE2 PATTERN LIBRARY COMPONENTS
 
 - To show all Components built for assignment on single web page.
 
