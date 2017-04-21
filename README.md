@@ -10,7 +10,6 @@
 
 ----------------------------------------------------------------------------------------------------------
 ##  Report documenting lifecycle of Pattern Library Design in "medium.com"
-
 [AE2 Report](https://medium.com/@ajw200565/swd600-ae2-pattern-library-7588f16031c0) Right Click and open in new tab
 
 ----------------------------------------------------------------------------------------------------------
