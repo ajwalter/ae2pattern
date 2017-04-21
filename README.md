@@ -32,10 +32,11 @@ Removed installations at Project End to remove conflict and create GitHub Pages 
 - project name is patternlab2-example
 - run pattern library interface from /ae2patter/patternlab2-example/public/index.html
 
-[Pattern Library] (https://ae2pattern-andyjwalter.c9users.io/patternlab2-example/public/index.html)
+[Pattern Library](https://ae2pattern-andyjwalter.c9users.io/patternlab2-example/public/index.html)
 - All Components built for Project begin with "ae2"filename.
 
 ----------------------------------------------------------------------------------------------------------
 # Rendering of all Components avialable from Menu - Templates - AE2 PATTERN LIBRARY COMPONENTS
-[Components] (https://ae2pattern-andyjwalter.c9users.io/patternlab2-example/public/?p=templates-ae2-pattern-project)
+
+[Components](https://ae2pattern-andyjwalter.c9users.io/patternlab2-example/public/?p=templates-ae2-pattern-project)
 ----------------------------------------------------------------------------------------------------------
