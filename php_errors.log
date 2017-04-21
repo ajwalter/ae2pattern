@@ -1,0 +1,8 @@
+[17-Apr-2017 22:34:06 UTC] PHP Fatal error:  Uncaught exception 'Mustache_Exception_SyntaxException' with message 'Unexpected closing tag: /footerNav on line 4' in /home/ubuntu/workspace/patternlab2-example/vendor/mustache/mustache/src/Mustache/Parser.php:115
+Stack trace:
+#0 /home/ubuntu/workspace/patternlab2-example/vendor/mustache/mustache/src/Mustache/Parser.php(43): Mustache_Parser->buildTree(Array)
+#1 /home/ubuntu/workspace/patternlab2-example/vendor/mustache/mustache/src/Mustache/Engine.php(745): Mustache_Parser->parse(Array)
+#2 /home/ubuntu/workspace/patternlab2-example/vendor/mustache/mustache/src/Mustache/Engine.php(759): Mustache_Engine->parse('<nav class="c-f...')
+#3 /home/ubuntu/workspace/patternlab2-example/vendor/mustache/mustache/src/Mustache/Engine.php(700): Mustache_Engine->compile('<nav class="c-f...')
+#4 /home/ubuntu/workspace/patternlab2-example/vendor/mustache/mustache/src/Mustache/Engine.php(619): Mustache_Engine->loadSource('<nav class="c-f...')
+#5 /home/ubuntu/workspace/patternlab2-example/vendor/mustache/mustache/src/Mustache/En in /home/ubuntu/workspace/patternlab2-example/vendor/mustache/mustache/src/Mustache/Parser.php on line 115
