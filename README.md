@@ -19,8 +19,9 @@
 - Removed installations at Project End to remove conflict and create GitHub Pages publication.
 
 ----------------------------------------------------------------------------------------------------------
-##  Access to Pattern Library on Cloud9 (Instance hybernating so please request owner to run)
+##  Access to Pattern Library on Cloud9
 
+- Instance hybernating so please request owner to run
 - Cloud9 deployment of PatternLab v2 running on PHP with Mustache
 - Available as part of Cloud9 Team Subscription SWD600 http://c9.io/solent
 - See under andyjwalter - solent/ae2pattern
