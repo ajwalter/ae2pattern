@@ -32,7 +32,7 @@
 
 [Pattern Library Menu System](https://ae2pattern-andyjwalter.c9users.io/patternlab2-example/public/?p=templates-ae2-pattern-project) Right Click and open in new tab
 - All Components built for Project have naming convention beginning "ae2"filename.
-- All Six Components reside in relevant Atomic folder structure and Library Menus.
+- All Six Components reside in relevant Atomic folder structure and Library Menus name begins "AE2....".
 
 ----------------------------------------------------------------------------------------------------------
 ## Rendering of all Components avialable from:
