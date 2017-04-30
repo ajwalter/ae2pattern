@@ -2257,8 +2257,8 @@ progress[value]::-webkit-progress-bar {
   display: block;
   color: #fff;
   text-decoration: none;
-  line-height: 5em;
-  height: 5em;
+  line-height: 3em;
+  height: 3em;
   padding: 0 1.5em;
   word-wrap: no-wrap;
   transition: all .3s ease;
@@ -2294,10 +2294,10 @@ progress[value]::-webkit-progress-bar {
     border-top: 1px solid #008ae6;
   }
   .menu__link {
-    background: #09f;
+    background: #A217BA;
   }
   .menu__link:hover {
-    background: #A217BA;
+    background: #09f;
   }
 }
 /* Wrap
