@@ -2224,8 +2224,9 @@ progress[value]::-webkit-progress-bar {
 .menu-btn {
   display: none;
   position: absolute;
-  right: 10px;
+  right: 30px;
   top: 20px;
+  color:#fff;
 }
 
 @media (max-width: 768px) {
@@ -2235,6 +2236,10 @@ progress[value]::-webkit-progress-bar {
 
   .menu-btn {
     display: block;
+  }
+  .menu-btn:hover, .menu-btn:focus {
+  background: #09f;
+  color: #fff;
   }
 }
 /*  Menu
